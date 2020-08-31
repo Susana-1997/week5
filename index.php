@@ -1,4 +1,8 @@
 <!doctype html>
+/*
+Agg junto con este index su css correspondiente y su php de contacto
+*/
+
 <html lang="es">
      <head>
         <meta charset="utf-8">
